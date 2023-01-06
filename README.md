@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashique12009" target="blank"><img src="https://img.shields.io/twitter/follow/ashique12009?logo=twitter&style=for-the-badge" alt="ashique12009" /></a> </p>
 
-- 🌱 I’m currently learning **Symfony, React and design pattern**
+- 🌱 I’m currently working on **Drupal, Laravel, Wordpress, Vue JS and Angular**
 
 - 📝 I regularly write articles on [https://ashique12009.blogspot.com](https://ashique12009.blogspot.com)
 
