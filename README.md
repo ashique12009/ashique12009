@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashique12009&label=Profile%20views&color=0e75b6&style=flat" alt="ashique12009" /> </p>
 
-- 🌱 I’m currently working on **Drupal, Laravel, Wordpress, Vue JS and Angular**
+- 🌱 Love to work on **Drupal, Laravel, Wordpress, Vue JS and Angular**
 
-- 📝 I regularly write articles on [https://ashique12009.blogspot.com](https://ashique12009.blogspot.com)
+- 📝 Write tech articles here: [https://ashique12009.blogspot.com](https://ashique12009.blogspot.com)
 
 - 📫 How to reach me **ashique12009@gmail.com**
 
