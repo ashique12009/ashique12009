@@ -21,8 +21,8 @@
 <a href="https://fb.com/ashique12009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashique12009" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> [![My Skills](https://skillicons.dev/icons?i=html,css,js,wasm)](https://skillicons.dev) </p>
+<h3 align="left">Tech Stack and Tools:</h3>
+<p align="left"> <img src="[![My Skills](https://skillicons.dev/icons?i=html,css,js,wasm)](https://skillicons.dev)" /> </p>
 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashique12009&show_icons=true&locale=en&layout=compact" alt="ashique12009" /><img align="left" src="https://github-readme-stats.vercel.app/api?username=ashique12009&show_icons=true&locale=en" alt="ashique12009" />
 </p>
