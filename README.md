@@ -20,6 +20,6 @@
 <h3 align="left">Tech Stack and Tools:</h3>
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,angular,vue,react,redux,ts,nodejs,express,java,php,laravel,wordpress,firebase,mysql,sqlite,flutter,git,github,gitlab,linux,nginx,ps,postman" /> </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashique12009&show_icons=true&locale=en&layout=compact" alt="ashique12009" /><img align="left" src="https://github-readme-stats.vercel.app/api?username=ashique12009&show_icons=true&locale=en" alt="ashique12009" />
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashique12009&show_icons=true&locale=en&layout=compact" alt="ashique12009" /><img align="left" src="https://github-readme-stats.vercel.app/api?username=ashique12009&show_icons=true&locale=en" alt="ashique12009" />
 </p>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ashique12009&" alt="ashique12009" /></p>
